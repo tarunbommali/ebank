@@ -1,0 +1,26 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  padding: 25px;
+}
+
+.digital-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.digital-card-title {
+  color: #ffffff;
+}
